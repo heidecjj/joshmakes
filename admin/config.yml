@@ -21,5 +21,3 @@ collections:
       - {label: "Summary", name: "summary", widget: "text"}
       - {label: "Featured Image", name: "featured-img", widget: "image"}
       - {label: "Mathjax", name: "mathjax", widget: "boolean", default: false}
-
-      layout title summary featured-img mathjax
