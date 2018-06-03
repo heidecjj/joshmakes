@@ -24,4 +24,4 @@ collections:
       - {label: "Summary", name: "summary", widget: "text"}
       - {label: "Featured Image", name: "featured-img", widget: "image"}
       - {label: "Mathjax", name: "mathjax", widget: "boolean", default: false}
-      - {label: "Body", name: "body", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
